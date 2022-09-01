@@ -1,4 +1,15 @@
-### 👋 Hi, my name is Dmitry and I'm a Software Testing Engineer!
+### 👋 Hi
+
+My name is Dmitry and I'm a Software Testing Engineer, but I don't just stop at learning testing.
+
+#### ⚡ You can see my practice here:
+- draft
+- draft
+- draft
+
+#### 📫 My contacts:
+- draft
+- draft
 
 <!--
 **dmitrymashkalo/dmitrymashkalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
