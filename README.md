@@ -7,7 +7,7 @@ My name is Dmitry and I'm a Software Testing Engineer, but I don't just stop at 
 
 #### 📫 My contacts:
 - <a href="https://www.linkedin.com/in/dmitrymashkalo/" target="">Linkedin</a>
-- <a href="https://t.me/dmitry_mashkalo" target="">Telegram</a>
+- <a href="https://t.me/dmitrymashkalo" target="">Telegram</a>
 
 <!--
 **dmitrymashkalo/dmitrymashkalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
