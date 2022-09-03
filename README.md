@@ -3,13 +3,11 @@
 My name is Dmitry and I'm a Software Testing Engineer, but I don't just stop at learning testing.
 
 #### ⚡ You can see my practice here:
-- draft
-- draft
-- draft
+- <a href="https://github.com/dmitrymashkalo/head_first_python" target="_blank">Python: Practice from "Head First Python" book.</a>
 
 #### 📫 My contacts:
-- draft
-- draft
+- <a href="https://www.linkedin.com/in/dmitrymashkalo/" target="">Linkedin</a>
+- <a href="https://t.me/dmitry_mashkalo" target="">Telegram</a>
 
 <!--
 **dmitrymashkalo/dmitrymashkalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
