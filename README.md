@@ -1,6 +1,6 @@
 ### 👋 Hi
 
-My name is Dmitry and I'm a Software Testing Engineer, but I don't just stop at learning testing.
+My name is Dmitry and I'm a Software Testing Engineer.
 
 #### ⚡ You can see my practice here:
 - <a href="https://github.com/dmitrymashkalo/head_first_python" target="_blank">Python: Practice from "Head First Python" book.</a>
