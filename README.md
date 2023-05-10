@@ -4,6 +4,7 @@ My name is Dmitry and I'm a Software Testing Engineer.
 
 #### ⚡ You can see my practice here:
 - <a href="https://github.com/dmitrymashkalo/head_first_python" target="_blank">Python: Practice from "Head First Python" book.</a>
+- <a href="https://github.com/dmitrymashkalo/alien_invasion" target="_blank">Python: Alien Invasion 2D game</a>
 - <a href="https://github.com/dmitrymashkalo/grokking_algorithms" target="_blank">Algorithms: Practice from "Grokking Algorithms" book.</a>
 
 #### 📫 My contacts:
